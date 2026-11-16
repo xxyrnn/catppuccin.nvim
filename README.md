@@ -1,7 +1,6 @@
 # catppuccin.nvim
 
-Personal port of the Catppuccin Mocha theme for Neovim
-
+Personal port of the Catppuccin Mocha theme for Neovim \
 Original theme: [https://github.com/catppuccin/nvim](https://github.com/catppuccin/nvim)
 
 ## Installation
