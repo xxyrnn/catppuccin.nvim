@@ -13,7 +13,7 @@ Original theme: [https://github.com/catppuccin/nvim](https://github.com/catppucc
       lazy = false,
       priority = 1000,
       config = function()
-          vim.cmd("colorscheme catppuccin")
+          vim.cmd.colorscheme("catppuccin")
       end
   }
   ```
